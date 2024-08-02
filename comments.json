@@ -1,0 +1,52 @@
+{
+    "comments":[
+        {
+            "id":1,
+            "fullName":"Sophire Robson",
+            "avatar":"https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "city":"Los Angeles, CA",
+            "title":"“The best restaurant”",
+            "comment":"Last night, we dined at place and were simply blown away. From the moment we stepped in, we were enveloped in an inviting atmosphere and greeted with warm smiles."
+        },
+        {
+            "id":2,
+            "fullName":"Matt Cannon",
+            "avatar":"https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "city":"San Diego, CA",
+            "title":"“Simply delicious”",
+            "comment":"Place exceeded my expectations on all fronts. The ambiance was cozy and relaxed, making it a perfect venue for our anniversary dinner. Each dish was prepared and beautifully presented."
+        },
+        {
+            "id":3,
+            "fullName":"Andy Smith",
+            "avatar":"https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "city":"San Francisco, CA",
+            "title":"“One of a kind restaurant”",
+            "comment":"The culinary experience at place is first to none. The atmosphere is vibrant, the food - nothing short of extraordinary. The food was the highlight of our evening. Highly recommended."
+        },
+        {
+            "id":4,
+            "fullName":"Jane Green",
+            "avatar":"https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "city":"Nwe york, CA",
+            "title":"“The best restaurant”",
+            "comment":"Last night, we dined at place and were simply blown away. From the moment we stepped in, we were enveloped in an inviting atmosphere and greeted with warm smiles."
+        },
+        {
+            "id":5,
+            "fullName":"James Bulls",
+            "avatar":"https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "city":"San Francisco, CA",
+            "title":"“One of a kind restaurant”",
+            "comment":"The culinary experience at place is first to none. The atmosphere is vibrant, the food - nothing short of extraordinary. The food was the highlight of our evening. Highly recommended."
+        },
+        {
+            "id":6,
+            "fullName":"Mary Wills",
+            "avatar":"https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "city":"Edinburg, CA",
+            "title":"“Simply delicious”",
+            "comment":"Place exceeded my expectations on all fronts. The ambiance was cozy and relaxed, making it a perfect venue for our anniversary dinner. Each dish was prepared and beautifully presented."
+        }
+    ]
+}
